@@ -1,0 +1,8 @@
+jcopdl==1.1.1
+optuna
+torch
+matplotlib
+pandas
+numpy
+seaborn
+scikit-learn
